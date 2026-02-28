@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Water
+  - Test_Item
+  - Container
+  - Key
   layers:
   - Default
   - TransparentFX

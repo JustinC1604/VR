@@ -808,7 +808,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &202275862
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1754,10 +1754,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Desk
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ca80da558f6dc8f4a816615a7d61c07d, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1924,7 +1920,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -9.6
+      value: 3.134
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1932,7 +1928,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -2722,10 +2718,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Handle
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ad71b9d1308c03f42a5c0fa6c10d0bff, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8093659329876042112, guid: ad71b9d1308c03f42a5c0fa6c10d0bff, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -3142,7 +3134,7 @@ Transform:
   m_GameObject: {fileID: 778284289}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.65, y: 0.5, z: 2.52}
+  m_LocalPosition: {x: 0.014, y: 0.5, z: 2.52}
   m_LocalScale: {x: 2.5544, y: 1, z: 1.2336}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3165,7 +3157,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!199 &812014890
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -8371,7 +8363,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &941675133
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8788,7 +8780,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &989791820
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -12666,7 +12658,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1211435338
 Transform:
   m_ObjectHideFlags: 0
@@ -13600,10 +13592,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Drawer
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: de0fea8d325d412419ae787586765a92, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
@@ -13965,10 +13953,6 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5656575d6593d944fb92fbd25d20efcd, type: 3}
       propertyPath: m_Name
       value: Sink
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 5656575d6593d944fb92fbd25d20efcd, type: 3}
-      propertyPath: m_IsActive
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14907,7 +14891,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!33 &1759093178
 MeshFilter:
   m_ObjectHideFlags: 10
@@ -16648,7 +16632,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!65 &1764405505
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16977,7 +16961,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1803251851
 MonoBehaviour:
   m_ObjectHideFlags: 0
